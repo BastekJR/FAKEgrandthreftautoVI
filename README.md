@@ -1,2 +1,1 @@
-# FAKEgrandthreftautoVI
-FAKEgrandthreftautoVI
+# Real README is in the ZIP!
